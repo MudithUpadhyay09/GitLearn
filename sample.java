@@ -1,2 +1,2 @@
-public class ample{
+public class static{
 }
